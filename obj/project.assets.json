@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tansen/Desktop/test/test.csproj",
+      "projectUniqueName": "/home/tansen/my documents/practice/dotnet_rest_api/test.csproj",
       "projectName": "test",
-      "projectPath": "/home/tansen/Desktop/test/test.csproj",
+      "projectPath": "/home/tansen/my documents/practice/dotnet_rest_api/test.csproj",
       "packagesPath": "/home/tansen/.nuget/packages/",
-      "outputPath": "/home/tansen/Desktop/test/obj/",
+      "outputPath": "/home/tansen/my documents/practice/dotnet_rest_api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tansen/.nuget/NuGet/NuGet.Config"

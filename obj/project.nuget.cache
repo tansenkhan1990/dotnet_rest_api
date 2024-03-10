@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s1hfiepXz4zL+6RfRKyUMHdUz18fC1LQKnMA9zrGmZEPcGJ8qmjSddzWSkkfcZX19YEX5iUBrXum5jRiqkEj1A==",
+  "dgSpecHash": "E8IgRx5QA4PQRCZo3I3e/3pdOQovUzo2PjreEkI5ZzwhN1GogwOevpsyYnOqubUfbrDAz9b2kk4pSFld3s+cIA==",
   "success": true,
-  "projectFilePath": "/home/tansen/Desktop/test/test.csproj",
+  "projectFilePath": "/home/tansen/my documents/practice/dotnet_rest_api/test.csproj",
   "expectedPackageFiles": [
     "/home/tansen/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "/home/tansen/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
